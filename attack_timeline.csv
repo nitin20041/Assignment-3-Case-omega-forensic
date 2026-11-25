@@ -1,0 +1,11 @@
+timestamp,source,event_id,host,account,event_description,evidence_id,confidence,notes,timestamp_parsed
+2026-11-17T08:30:00+05:30,Windows-Security,4624,OMEGA-WS01,nurse.test,Successful interactive logon; expected shift start,EVD-002,High,Synthetic baseline login,2026-11-17 03:00:00+00:00
+2026-11-17T08:42:00+05:30,Email-Gateway,1001,OMEGA-MAIL01,nurse.test,Phishing-style attachment delivered: invoice_update.docm,EVD-002,Medium,Synthetic email event; no actual email sent,2026-11-17 03:12:00+00:00
+2026-11-17T08:47:00+05:30,Endpoint-Activity,9001,OMEGA-WS01,nurse.test,User opened attachment (simulated event),EVD-002,Medium,Generated event; no macro executed,2026-11-17 03:17:00+00:00
+2026-11-17T08:50:00+05:30,Windows-Security,4624,OMEGA-FS01,svc_backup,Remote logon from 10.20.5.44,EVD-002,Medium,Synthetic logon; legitimacy not established,2026-11-17 03:20:00+00:00
+2026-11-17T08:53:00+05:30,USB-Activity,20001,OMEGA-WS01,nurse.test,USB device inserted; VID/PID represented as synthetic values,EVD-002,Medium,No real USB device examined,2026-11-17 03:23:00+00:00
+2026-11-17T08:56:00+05:30,Firewall,3001,OMEGA-FW01,unknown,Outbound connection to 198.51.100.23:443 allowed,EVD-002,Low,TEST-NET-2 documentation address; not a real IOC,2026-11-17 03:26:00+00:00
+2026-11-17T09:02:00+05:30,File-Audit,4663,OMEGA-FS01,svc_backup,Burst of file write/rename events in simulated share,EVD-002,High,Synthetic file activity record,2026-11-17 03:32:00+00:00
+2026-11-17T09:05:00+05:30,File-Audit,9002,OMEGA-FS01,SYSTEM,README_RESTORE.txt created in simulation folder,EVD-002,High,Scenario marker,2026-11-17 03:35:00+00:00
+2026-11-17T09:10:00+05:30,Helpdesk,4001,OMEGA-ITSM,it.operator,Incident reported to IT help desk,EVD-002,High,Synthetic report event,2026-11-17 03:40:00+00:00
+2026-11-17T09:18:00+05:30,Incident-Response,5001,OMEGA-FS01,ir.coordinator,Containment decision recorded; test host isolated in scenario,EVD-002,High,No real host isolated,2026-11-17 03:48:00+00:00

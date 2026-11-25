@@ -1,0 +1,2 @@
+timestamp,source,event_id,host,account,event_description,evidence_id,confidence,notes
+2026-11-17T08:42:00+05:30,Email-Gateway,1001,OMEGA-MAIL01,nurse.test,Phishing-style attachment delivered: invoice_update.docm,EVD-002,Medium,Synthetic email event; no actual email sent

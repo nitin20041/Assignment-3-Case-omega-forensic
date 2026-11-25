@@ -1,0 +1,28 @@
+name: Case Omega Validation
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify required project artifacts
+        run: |
+          set -e
+          test -f README.md
+          test -f 01_Case/CASE_BRIEF.txt
+          test -f 02_First_Responder/FIRST_RESPONDER_SOP.md
+          test -f 03_Evidence/hash_manifest.csv
+          test -f 04_Malware/ransomware_simulator.py
+          test -f 05_Logs/results/attack_timeline.csv
+          test -f 06_Report/Case_Omega_Forensic_Report.pdf
+          test -f 06_Report/Case_Omega_Forensic_Report.docx
+      - name: Markdown lint
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: "**/*.md"

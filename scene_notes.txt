@@ -1,0 +1,17 @@
+# Scene Notes – Simulated Scene
+
+**Case:** OMEGA-2026-001  
+**Date/time:** 17 November 2026, 09:12 IST (scenario time)  
+**Location:** Fictional Omega Hospital server room  
+**Observer:** Student investigator (simulation)
+
+## Observations represented in the scenario
+- One rack-mounted server labelled `OMEGA-FS01`.
+- One workstation labelled `OMEGA-WS01`.
+- One network switch and one firewall/router.
+- One removable USB device near the workstation.
+- A fictional ransom-style note visible on the workstation display.
+- No real photograph or physical scene exists; see the generated scene sketch and clearly labelled simulated visual.
+
+## State and handling
+All devices are represented as scenario objects. No actual device was seized, powered down, isolated, or examined. The evidence register identifies which artifacts are synthetic.

@@ -1,0 +1,2 @@
+timestamp,source,event_id,host,account,event_description,evidence_id,confidence,notes
+2026-11-17T08:47:00+05:30,Endpoint-Activity,9001,OMEGA-WS01,nurse.test,User opened attachment (simulated event),EVD-002,Medium,Generated event; no macro executed

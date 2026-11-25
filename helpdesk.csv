@@ -1,0 +1,2 @@
+timestamp,source,event_id,host,account,event_description,evidence_id,confidence,notes
+2026-11-17T09:00:00+05:30,Helpdesk,4001,OMEGA-ITSM,it.operator,Incident reported to IT help desk,EVD-002,High,Synthetic report event

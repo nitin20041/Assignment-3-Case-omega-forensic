@@ -1,0 +1,7 @@
+CASE OMEGA – ACTUAL PROJECT-FILE SHA-256 MANIFEST
+These hashes were calculated over the generated files in this project workspace.
+They are not hashes from a hospital server or a seized physical disk.
+
+03_Evidence_Acquisition/source_media/omega_synthetic_evidence_fixture.zip | 3482 bytes | SHA-256 | e30ce04c4d7281211e783d0e3703c50d06aa9164df3d547ea0f6bd9a0528d23e
+04_Malware_Analysis/ransomware_simulator.py | 3260 bytes | SHA-256 | 77e7e6470b827d238422d46f369224775db979257c7424c0af18a53fc832058e
+05_Log_Analysis/sample_logs/master_events.csv | 1693 bytes | SHA-256 | cab3fb649bcf940797b0fc69cc460f54077bae2604202b338ecefedd38491ae4

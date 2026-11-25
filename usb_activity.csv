@@ -1,0 +1,2 @@
+timestamp,source,event_id,host,account,event_description,evidence_id,confidence,notes
+2026-11-17T08:53:00+05:30,USB-Activity,20001,OMEGA-WS01,nurse.test,USB device inserted; VID/PID represented as synthetic values,EVD-002,Medium,No real USB device examined

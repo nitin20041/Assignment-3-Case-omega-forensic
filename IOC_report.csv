@@ -1,0 +1,6 @@
+Indicator type,Value,Source,Confidence,Interpretation
+File extension,.locked,Simulator output,Low,Scenario-only file-renaming marker
+Filename,README_RESTORE.txt,Simulator output,Low,Scenario-only note filename
+Script SHA-256,CALCULATED_BELOW,ransomware_simulator.py,High,Identifies this exact script byte sequence
+IP address,198.51.100.23,Synthetic firewall log,Low,TEST-NET-2 documentation address; not a live malicious IP
+Host,OMEGA-FS01,Synthetic logs,Low,Fictional scenario host

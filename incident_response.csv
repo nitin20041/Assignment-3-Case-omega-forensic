@@ -1,0 +1,2 @@
+timestamp,source,event_id,host,account,event_description,evidence_id,confidence,notes
+2026-11-17T09:18:00+05:30,Incident-Response,5001,OMEGA-FS01,ir.coordinator,Containment decision recorded; test host isolated in scenario,EVD-002,High,No real host isolated

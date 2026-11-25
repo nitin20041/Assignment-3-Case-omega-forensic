@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.dd
+*.img
+*.E01
+*.mem
+*.raw
+*.pcap
+*.pcapng
+private_evidence/
+working_copy/

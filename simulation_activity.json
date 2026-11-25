@@ -1,0 +1,34 @@
+{
+  "created_utc": "2026-11-18T05:08:20.760203+00:00",
+  "mode": "simulation",
+  "records": [
+    {
+      "source_name": "appointments_sample.txt",
+      "output_name": "appointments_sample.txt.locked",
+      "operation": "base64 demonstration transform",
+      "bytes_in": 44,
+      "bytes_out": 60
+    },
+    {
+      "source_name": "billing_sample.txt",
+      "output_name": "billing_sample.txt.locked",
+      "operation": "base64 demonstration transform",
+      "bytes_in": 55,
+      "bytes_out": 76
+    },
+    {
+      "source_name": "patient_record_001.txt",
+      "output_name": "patient_record_001.txt.locked",
+      "operation": "base64 demonstration transform",
+      "bytes_in": 47,
+      "bytes_out": 64
+    },
+    {
+      "source_name": "patient_record_002.txt",
+      "output_name": "patient_record_002.txt.locked",
+      "operation": "base64 demonstration transform",
+      "bytes_in": 47,
+      "bytes_out": 64
+    }
+  ]
+}

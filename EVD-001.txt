@@ -1,0 +1,9 @@
+CASE OMEGA – EVIDENCE TAG
+Case ID: OMEGA-2026-001
+Evidence ID: EVD-001
+Description: Synthetic forensic fixture image (not a real hospital disk)
+Source: Project-generated lab artifact
+Collected by: Student investigator (simulation)
+Collection time: 17-Nov-2026 10:00 IST (scenario record)
+Seal ID: SIM-SEAL-001
+Status: Synthetic / generated

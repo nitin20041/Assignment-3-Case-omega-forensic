@@ -1,0 +1,27 @@
+CASE OMEGA – CASE BRIEF
+
+Case ID: OMEGA-2026-001
+Organization: Omega Multispeciality Hospital (fictional)
+Scenario date: 17 November 2026
+Initial incident notification: 09:00 IST
+Investigation type: Academic digital-forensics simulation
+
+INCIDENT SUMMARY
+Hospital IT staff reported that selected shared files appeared with a .locked extension 
+and a ransom-style note was found. The scenario includes simulated email, endpoint, login,
+ USB, firewall, file-audit and helpdesk events.
+
+INVESTIGATION OBJECTIVES
+1. Document the scene and first-responder actions.
+2. Organize synthetic evidence and maintain a Chain of Custody.
+3. Calculate SHA-256 hashes to check file integrity.
+4. Demonstrate ransomware-like file transformation safely.
+5. Correlate synthetic logs and build an event timeline.
+6. Prepare a forensic report with findings and limitations.
+
+SCOPE AND LIMITATIONS
+All organizations, people, records and logs are fictional/synthetic.
+No real patient data or hospital systems are involved. 
+The evidence ZIP is not a raw forensic disk image. FTK Imager and Autopsy
+acquisition/examination have not been completed in this package.
+Generated visuals are not screenshots from those tools.
